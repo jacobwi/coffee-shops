@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Location" android:icon="@drawable/ic_outline_store_24px"
+          android:iconTint="@android:color/white" android:id="@+id/location"/>
+    <item android:title="Items" android:icon="@drawable/ic_outline_list_alt_24px" android:id="@+id/items"/>
+    <item android:title="Orders" android:icon="@drawable/ic_outline_shopping_cart_24px" android:id="@+id/orders"/>
+    <item android:title="Profile" android:icon="@drawable/ic_outline_person_24px" android:id="@+id/profile"/>
+</menu>
